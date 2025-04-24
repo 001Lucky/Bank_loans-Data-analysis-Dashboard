@@ -9,14 +9,14 @@ This project focused on building an interactive dashboard to monitor and analyze
 5.	Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
 ## Loan Status Grid View
 In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio
-## CHARTS
-1.	Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-term trends in lending activities
-2.	Regional Analysis by State (Filled Map): To identify regions with significant lending activity and assess regional disparities
-3.	Loan Term Analysis (Donut Chart): To allow the client to understand the distribution of loans across various term lengths.
-4.	Employee Length Analysis (Bar Chart): How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
-5.	Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
-6.	Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
-C.) DASHBOARD 3: OVERVIEW
+## DASHBOARD : OVERVIEW CHARTS
+1.	Monthly Trends by Issue Date :  To identify seasonality and long-term trends in lending activities
+2.	Regional Analysis by State : To identify regions with significant lending activity and assess regional disparities
+3.	Loan Term Analysis: To allow the client to understand the distribution of loans across various term lengths.
+4.	Employee Length Analysis : How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
+5.	Loan Purpose Breakdown : Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
+6.	Home Ownership Analysis : For a hierarchical view of how home ownership impacts loan applications and disbursements.
+## DASHBOARD: Details
 GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
 ## OUTCOME
