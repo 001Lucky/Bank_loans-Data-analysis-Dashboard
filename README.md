@@ -26,7 +26,7 @@ Need for a comprehensive 'Details Dashboard' that provides a consolidated view o
 •	Improves decision-making on credit policy, interest rates, marketing, and collections.
 ## Conclusion
 In today’s data driven financial landscape, analyzing bank loan data is not just a best practice it is a necessity. Through comprehensive data analysis, banks can assess risk with greater precision, make more informed lending decisions, and manage their loan portfolios more efficiently. It enables early fraud detection, ensures compliance with regulatory standards, and uncovers valuable customer insights that drive personalized services and marketing strategies. Moreover, it plays a crucial role in evaluating profitability, understanding market dynamics, and managing credit risk proactively. By leveraging the power of data, banks not only safeguard their financial health but also enhance customer satisfaction and long-term business sustainability. In essence, loan data analysis empowers banks to strike the right balance between opportunity and risk in an ever-evolving financial environment
-## software used
+## software tools used
 Microsoft SQL Server Management Studio
 Microsoft excel
 powerbi
