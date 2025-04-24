@@ -7,7 +7,6 @@ This project focused on building an interactive dashboard to monitor and analyze
 3.	Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) changes.
 4.	Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations in interest rates will provide insights into our lending portfolio's overall cost.
 5.	Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
-
 ## Loan Status Grid View
 In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio
 ## CHARTS
@@ -20,16 +19,14 @@ In order to gain a comprehensive overview of our lending operations and monitor 
 C.) DASHBOARD 3: OVERVIEW
 GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
-   # OUTCOME
+## OUTCOME
 •	Can monitor trends in lending, repayments, and risk monthly.
 •	Being able to identify good vs bad loans.
 •	spoting profitable or risky segments through the Demographic and purpose breakdowns.
 •	Improves decision-making on credit policy, interest rates, marketing, and collections.
-
-  # Conclusion
+## Conclusion
 In today’s data driven financial landscape, analyzing bank loan data is not just a best practice it is a necessity. Through comprehensive data analysis, banks can assess risk with greater precision, make more informed lending decisions, and manage their loan portfolios more efficiently. It enables early fraud detection, ensures compliance with regulatory standards, and uncovers valuable customer insights that drive personalized services and marketing strategies. Moreover, it plays a crucial role in evaluating profitability, understanding market dynamics, and managing credit risk proactively. By leveraging the power of data, banks not only safeguard their financial health but also enhance customer satisfaction and long-term business sustainability. In essence, loan data analysis empowers banks to strike the right balance between opportunity and risk in an ever-evolving financial environment
-
-# software used
+## software used
 Microsoft SQL Server Management Studio
 Microsoft excel
 powerbi
