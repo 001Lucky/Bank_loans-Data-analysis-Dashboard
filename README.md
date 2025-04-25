@@ -26,6 +26,7 @@ Bad Loan Application Percentage,Bad Loan Applications,Bad Loan Funded Amount and
 ## DASHBOARD: Details
 GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
+-< href= https://github.com/001Lucky/Bank_loans-Data-analysis-Dashboard/blob/main/Bank_loan%20Dashboard1.png> Dashboard1< /a>
 ## OUTCOME
 •	Can monitor trends in lending, repayments, and risk monthly.
 •	Being able to identify good vs bad loans.
