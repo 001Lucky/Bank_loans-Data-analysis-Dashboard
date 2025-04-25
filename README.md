@@ -1,6 +1,8 @@
 # Bank_loan-Data-analysis-Dashboard
 ## PROBLEM STATEMENT
 This project focused on building an interactive dashboard to monitor and analyze key performance indicators across bank loan applications, funding, and repayments. It includes detailed metrics such as loan amounts, interest rates, and borrower risk profiles, with monthly trends and segmentation by loan type and borrower characteristics. Through visualizations and a comprehensive grid view, the dashboard empowers data-driven decisions.
+## Dataset used 
+-<a href="https://github.com/001Lucky/Bank_loans-Data-analysis-Dashboard/blob/main/financial_loan.zip>Dataset</a>
 ## Key Performance Indicators (KPIs) Requirements:
 1.	Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
 2.	Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
