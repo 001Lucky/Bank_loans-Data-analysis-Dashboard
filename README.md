@@ -2,7 +2,6 @@
 ## PROBLEM STATEMENT
 This project focused on building an interactive dashboard to monitor and analyze key performance indicators across bank loan applications, funding, and repayments. It includes detailed metrics such as loan amounts, interest rates, and borrower risk profiles, with monthly trends and segmentation by loan type and borrower characteristics. Through visualizations and a comprehensive grid view, the dashboard empowers data-driven decisions.
 ## Dataset used 
--< href ="https://github.com/001Lucky/Bank_loans-Data-analysis-Dashboard/blob/main/financial_loan.zip>Dataset </a>
 ## Key Performance Indicators (KPIs) Requirements:
 1.	Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
 2.	Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
@@ -26,7 +25,13 @@ Bad Loan Application Percentage,Bad Loan Applications,Bad Loan Funded Amount and
 ## DASHBOARD: Details
 GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
--< href= https://github.com/001Lucky/Bank_loans-Data-analysis-Dashboard/blob/main/Bank_loan%20Dashboard1.png> Dashboard1< /a>
+## Dashboards
+![Bank_loan Dashboard1](https://github.com/user-attachments/assets/8706b8d9-572b-4578-b797-58db64e16d34)
+![Bank_loan Dashboard3](https://github.com/user-attachments/assets/795b7d6c-f4c3-434a-bec4-46068841bb94)
+![Bank_loan Dashboard2](https://github.com/user-attachments/assets/835b0ba6-1f87-4e91-a01e-3fb4af182c14)
+
+
+
 ## OUTCOME
 •	Can monitor trends in lending, repayments, and risk monthly.
 •	Being able to identify good vs bad loans.
